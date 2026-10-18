@@ -1,6 +1,6 @@
 # malaria_project
 
-# Exploring the Reported Potency of Approved Compounds Against Plasmodium falciparum Using ChEMBL
+## Exploring the Reported Potency of Approved Compounds Against Plasmodium falciparum Using ChEMBL
 
 ## Overview
 
